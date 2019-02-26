@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">The Walking Dead</string>
+    <string name="txtBtnBuscar">Buscar</string>
+    <string name="txtBtnBorrar">Borrar</string>
+    <string name="string_no_personajes">Aún no hay personajes</string>
+    <string name="txtMnuOptions">Opciones</string>
+    <string name="icon_settings">⋮</string>
+    <string name="labelAgregarActivity">Agregar personaje</string>
+    <string name="lbl_txtPrincipal">Principal</string>
+    <string name="lblDescripcion">Descripción</string>
+    <string name="hint_nombre">Personaje</string>
+    <string name="hint_interprete">Interpretado por</string>
+    <string name="hint_url_poster">URL Poster</string>
+    <string name="hint_descripcion">Descripción larga del personaje</string>
+    <string name="lbl_done">Done</string>
+    <string name="main_saved_succesfully">Ha sido guardado correctamente</string>
+    <string-array name="temporadas">
+        <item >Temporada 1</item>
+        <item >Temporada 2</item>
+        <item >Temporada 3</item>
+        <item >Temporada 4</item>
+        <item >Temporada 5</item>
+        <item >Temporada 6</item>
+        <item >Temporada 7</item>
+        <item >Temporada 8</item>
+        <item >Temporada 9</item>
+    </string-array>
+</resources>
